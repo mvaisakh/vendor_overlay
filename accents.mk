@@ -1,25 +1,16 @@
 # Accents
 PRODUCT_PACKAGES += \
-    Amber \
+    AtlantisGreen \
+    AzureRadiance \
     Black \
-    Blue \
-    BlueGrey \
-    Brown \
-    Cyan \
-    DeepOrange \
-    DeepPurple \
-    Green \
-    Grey \
-    Indigo \
-    LightBlue \
-    LightGreen \
-    Lime \
-    Orange \
-    Pink \
-    Purple \
-    Red \
+    ElectricViolet \
+    FiBlue \
+    MarsOrange \
+    NovaYellow \
+    PersianRed \
+    SlateSpruce \
     Teal \
-    Yellow \
+    TorchPink \
     White
 
 # Brand Accents
