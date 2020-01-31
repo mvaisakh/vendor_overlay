@@ -16,7 +16,8 @@ PRODUCT_PACKAGES += \
     PrimaryColorAOSiPNatureOverlay \
     PrimaryColorAOSiPOceanOverlay \
     PrimaryColorCharcoalBlackOverlay \
-    PrimaryColorLeadBlackOverlay
+    PrimaryColorLeadBlackOverlay \
+    PrimaryColorSolarizedDarkOverlay
 
 # Accents
 include vendor/overlay/accents.mk
