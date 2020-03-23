@@ -11,7 +11,18 @@ PRODUCT_PACKAGES += \
     SlateSpruce \
     Teal \
     TorchPink \
-    White
+    White \
+    BlackTheme \
+    BlueAccent \
+    BrownAccent \
+    CyanAccent \
+    DarkTheme \
+    GreenAccent \
+    OrangeAccent \
+    PinkAccent \
+    PurpleAccent \
+    RedAccent \
+    YellowAccent
 
 # Brand Accents
 PRODUCT_PACKAGES += \
