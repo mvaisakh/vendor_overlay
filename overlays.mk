@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     PrimaryColorLeadBlackOverlay \
     PrimaryColorSolarizedDarkOverlay \
     PrimaryFlameOverlay \
+    PrimaryColorOneplusDarkOverlay \
     EmptyOverlay \
     MatchmakerOverlay
 
